@@ -1,4 +1,5 @@
-![11-Tweaks-to-Become-A-Productive-Programmer-Startuptalky](https://github.com/Qristt/Armenian_animals/assets/154927704/7c61ada5-5e0e-4248-89ab-a001fc899bcc)
+![woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203](https://github.com/Qristt/Armenian_animals/assets/154927704/0e1b45c5-20a0-4252-9539-7b6426eb91f6)
+
 ## Armenian animals Classification Model
 
 
