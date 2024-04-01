@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="OpenDevin Logo" src="./logo.png" width="150" />
+  <img src="![logo](https://github.com/Qristt/Armenian_animals/assets/154927704/d746d695-eb91-4839-b2c3-f632283de362)" width="150" />
 </p>
 
 ## Armenian animals Classification Model
