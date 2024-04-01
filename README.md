@@ -1,4 +1,4 @@
-<img src="[logo](https://github.com/Qristt/Armenian_animals/assets/154927704/98402211-4b6f-44e8-bbc1-80cad3a380e0)" style="width: 150px;">
+![11-Tweaks-to-Become-A-Productive-Programmer-Startuptalky](https://github.com/Qristt/Armenian_animals/assets/154927704/7c61ada5-5e0e-4248-89ab-a001fc899bcc)
 ## Armenian animals Classification Model
 
 
