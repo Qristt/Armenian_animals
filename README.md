@@ -1,4 +1,4 @@
-<img src="[logo](https://github.com/Qristt/Armenian_animals/assets/154927704/d746d695-eb91-4839-b2c3-f632283de362)" />
+![logo](https://github.com/Qristt/Armenian_animals/assets/154927704/d746d695-eb91-4839-b2c3-f632283de362)
 
 ## Armenian animals Classification Model
 
@@ -65,3 +65,6 @@ The goal of the task was to create a model that would predict what animal was gi
 - `utils`: Folder with some helper functions I have used for "model_preparation.ipynb"
 - `animals`: Dataset folder with the original and augmented images, split into train/val/test folders. (test images only in original folder)
 - `runs`: Folder with training images.
+
+
+<img src="./Images/supervised_learning_flowchart.png" style="width: 700px; height:600px;">
