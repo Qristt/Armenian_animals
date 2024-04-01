@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="OpenDevin Logo" src="./logo.png" width="150" />
+</p>
+
 ## Armenian animals Classification Model
 
 
