@@ -64,5 +64,3 @@ The goal of the task was to create a model that would predict what animal was gi
 - `animals`: Dataset folder with the original and augmented images, split into train/val/test folders. (test images only in original folder)
 - `runs`: Folder with training images.
 
-
-<img src="" style="width: 700px; height:600px;">
