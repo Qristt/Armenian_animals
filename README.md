@@ -1,8 +1,8 @@
 ![woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203](https://github.com/Qristt/Armenian_animals/assets/154927704/0e1b45c5-20a0-4252-9539-7b6426eb91f6)
 
-## Armenian animals Classification Model
 
-
+<img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://www.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_16739195.htm" />
+## Classification model - animals of the red book of Armenia
 
 
 
