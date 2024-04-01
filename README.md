@@ -1,4 +1,4 @@
-<img src="" style="width: 150px;">(https://github.com/Qristt/Armenian_animals/assets/154927704/d746d695-eb91-4839-b2c3-f632283de362)
+<img src="[logo](https://github.com/Qristt/Armenian_animals/assets/154927704/98402211-4b6f-44e8-bbc1-80cad3a380e0)" style="width: 150px;">
 ## Armenian animals Classification Model
 
 
