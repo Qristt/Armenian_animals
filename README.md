@@ -1,5 +1,4 @@
-![logo](https://github.com/Qristt/Armenian_animals/assets/154927704/d746d695-eb91-4839-b2c3-f632283de362)
-
+<img src="" style="width: 700px; height:600px;">[logo](https://github.com/Qristt/Armenian_animals/assets/154927704/d746d695-eb91-4839-b2c3-f632283de362)
 ## Armenian animals Classification Model
 
 
@@ -67,4 +66,4 @@ The goal of the task was to create a model that would predict what animal was gi
 - `runs`: Folder with training images.
 
 
-<img src="./Images/supervised_learning_flowchart.png" style="width: 700px; height:600px;">
+<img src="" style="width: 700px; height:600px;">
