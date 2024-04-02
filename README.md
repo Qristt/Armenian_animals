@@ -41,7 +41,6 @@ The goal of the task was to create a model that would predict what animal was gi
 
 ### Work Progress
 
-**Work progress:**
 -  I have collected pictures of 5 animals registered in the Red Book of Armenia: seagull, leopard, mouflon, otter, chaytakis.
 -  Split the train val test folders and clean them of duplicate images
 -  The images are augmented and then training is done with Yolov8x.
