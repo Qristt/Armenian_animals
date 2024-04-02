@@ -11,6 +11,7 @@
 - [Task Description](#task-description)
 - [Tech Stack](#tech-stack)
 - [Approach Overview](#approach-overview)
+- [Work Progress](#work-progres.)
 - [Deliverables](#deliverables)
 #
 
@@ -37,6 +38,18 @@ The goal of the task was to create a model that would predict what animal was gi
 - **OpenCV**
 
 #
+
+### Work Progress
+
+- **Work progress:**
+- 1) I have collected pictures of 5 animals registered in the Red Book of Armenia: seagull, leopard, mouflon, otter, chaytakis.
+  2) Split the train val test folders and clean them of duplicate images
+  3) The images are augmented and then training is done with Yolov8x.
+We create a model that learns to guess animals using the pictures of the training folder, and then the model makes a guess with the pictures of the validation folder, and according to the results of the run folder, it becomes clear how accurate the prediction was. If there are errors, we perform augmentation and training again
+The model works in jupyter notebook, the installs are done with anaconda
+The Utils folder is designed to make train/val/test, rename_all_files and similar tasks easier.
+The images as well as the augmented images are located in the dataset folder
+The Runs folder is already the training result
 
 ### Approach Overview
 
